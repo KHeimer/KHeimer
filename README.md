@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET 5, Xamarin
 - 🌱 I’m currently learning Xamarin
 - 💞️ I’m looking to collaborate on ... currently nothing
-- 📫 How to reach me ... kh@karsten-heimer.de
+- 📫 How to reach me ... karsten-heimer@web.de
 
 <!---
 KHeimer/KHeimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
